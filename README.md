@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on RF and Communication System.
-- 🌱 I’m currently learning and exploring LabVIEW graphical programming.
-- 👯 I’m looking to collaborate on open source LabVIEW projects.
-- 🤔 I’m looking for help with creating large scale LabVIEW.
-- 💬 Ask me about LabVIEW or help me in LabVIEW.
+- 🔭 I’have worked on Machine Learning, RF and Communication Systems.
+- 🌱 I’have explored C++, C, Python and LabVIEW graphical programming.
+- 👯 I’m looking to work
 - 📫 How to reach me: e.usmanafzal@gmail.com
-- 😄 Pronouns: Developer, Usman.
+- 😄 Pronouns: Usman.
 - ⚡ Fun fact: Never giveup on your dreams keep sleeping.
 
 <!--
