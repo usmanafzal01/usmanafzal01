@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’have worked on Machine Learning, RF and Communication Systems.
+- 🔭 I’have worked on Machine Learning, IOT, RF and Communication Systems.
 - 🌱 I’have explored C++, C, Python and LabVIEW graphical programming.
 - 👯 I’m looking to work
 - 📫 How to reach me: e.usmanafzal@gmail.com
