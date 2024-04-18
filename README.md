@@ -5,7 +5,7 @@
 - 👯 I’m looking to work
 - 📫 How to reach me: e.usmanafzal@gmail.com
 - 😄 Pronouns: Usman.
-- ⚡ Fun fact: Never giveup on your dreams keep sleeping.
+- ⚡ Fun fact: Never giveup on your dreams.
 
 <!--
 **usmanafzal01/usmanafzal01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
